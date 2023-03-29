@@ -73,8 +73,3 @@ h1{
 .btn:hover{
     transform: scale(1.05);
 }
-
-a 
-{
-    text-decoration: dashed 1px rgba(0, 0, 0, 0);
-}
